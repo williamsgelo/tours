@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/tours/static/css/main.566bd010.css",
-    "main.js": "/github.io/tours/static/js/main.dff7e6cd.js",
-    "index.html": "/github.io/tours/index.html",
-    "main.566bd010.css.map": "/github.io/tours/static/css/main.566bd010.css.map",
-    "main.dff7e6cd.js.map": "/github.io/tours/static/js/main.dff7e6cd.js.map"
+    "main.css": "/tours/static/css/main.566bd010.css",
+    "main.js": "/tours/static/js/main.dff7e6cd.js",
+    "index.html": "/tours/index.html",
+    "main.566bd010.css.map": "/tours/static/css/main.566bd010.css.map",
+    "main.dff7e6cd.js.map": "/tours/static/js/main.dff7e6cd.js.map"
   },
   "entrypoints": [
     "static/css/main.566bd010.css",
